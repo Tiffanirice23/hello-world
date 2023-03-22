@@ -1,4 +1,6 @@
-# hello-world
-First Website from scratch for Code Fellows  
+# Home page for Tiffani's CodeFellow 102 notes
+
+
+Class 1: 
 
 Change
