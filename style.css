@@ -1,7 +1,51 @@
-body {
-    background: black;
+
+h1 {
+    text-align: left;
 }
 
-h1 {background-color: aqua;
+body {
+    background: #68D8D6;
+    width: 80%;
+    height: 80%
+}
 
+main {
+    background-color:#F3F8F2;
+    padding: 50px;
+}
+
+#leftside {
+    width: 60%;
+    display: inline-block;
+    vertical-align:top;
+}
+
+#rightside {
+    width: 39%;
+    display:inline-block;
+    vertical-align:top;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+}
+
+h3 {
+    padding: 10px;
+    margin: 10px;
+    width: 70%;
+}
+
+p {
+   
+    padding: 10px;
+    margin: 10px;
+    width: 70%;
+}
+
+h6 {
+    text-align: right;
 }
