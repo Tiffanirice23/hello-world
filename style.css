@@ -78,9 +78,12 @@ footer {
     text-align: right;
     padding: 5px;
     background-color: lightseagreen;
-    margin: 0 auto
-
+    font-size: 20px;
 }  
+
+h6 {
+    font-size: 20px;
+}
 
 /* h3 {
     padding: 10px;
