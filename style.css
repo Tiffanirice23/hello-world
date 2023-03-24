@@ -6,16 +6,15 @@ h1 {
 
 body {
     background: #eb972a;
-    width: 90%;
-    height: 90%;
-    /* border: 3px solid black; */
-    margin: 0 auto
+    width: 70%;
+    height: 70%; 
+    margin: 5%;
 }
 
-/* body, footer {
+body, footer {
     position: relative;
     margin: 0 auto;
-} */
+} 
 
 main {
     background-color:#D3EFBD;
@@ -27,7 +26,7 @@ main {
 img {
     width: 200px;
     height: 200px;
-    margin-left: 180px;
+    margin-left: 30%;
     margin-top: 15px;
     border-radius: 50%;
     
@@ -64,18 +63,18 @@ p {
 } 
 
 #lastcolumn {
-    margin-top: 50%;
+    margin-top: 10%;
     width:100%;
     text-align:center;
     border: 3px solid rgb(243, 240, 41);
-    height: 400px;
+    height: 600px;
     padding: 15px;
 
 }
 
 #lastcolumn a {
-    margin-bottom: 10px;
     display:block
+    
 }
 
 footer {
