@@ -26,7 +26,7 @@ alert ("Over 50% of commercial pilots have admitted to falling asleep while flyi
 let theirAnswer = greetUser();
 console.log (theirAnswer);
 
-// console.log("After Conditional");
+console.log("After Conditional");
 
 
 confirm ("Are you SURE you want to see this mess of a Website?!!")
