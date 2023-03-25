@@ -41,30 +41,6 @@ function mentalHealth(){
 }
 
 
-    // let displayBeach = prompt("On a scale of 1-5, how much do you need a vacation?");
-    // console.log(displayBeach);
-      
-    //     while (displayBeach !== "1" && vacation !=="2" && vacation !== "3" && vacation !== "4" && vacation !== "5"){
-    //         displayBeach = prompt ("... Follow directions? This is for science. Scale of 1-5, how much do you need a vacation? AND GO!")
-    //     }   
-
-        // for (let i = 0; i < displayBeach; i++){
-        //     document.write '(<img src= "tiny.plane") class= "Imgs" alt="Catching flights"/>)'
-        // }
-
-// function displayBeach (){
-//     let beachPics = prompt ("On a scale of 1-5, how much do you need a vacation?");
-
-//      (let i = 0; i < beachPics; i++){
-//     document.write("<head class='beach-tags'>Wanna go halfsies on the cost of a vacation? <br> </head>");
-//     }
-// } 
-
-//     while (displayBeach!== "1" && vacation !=="2" && vacation !== "3" && vacation !== "4" && vacation !== "5"){
-//         displayBeach = prompt ("... Do you know how to follow directions? Scale of 1-5, how much do you need a vacation? AND GO!");
-//      }
-//         return vacation;
-
 
 let theirAnswer = greetUser();
 console.log (theirAnswer);
@@ -76,3 +52,4 @@ console.log("After Conditional");
 
 
 confirm ("I'm still very new to coding. Are you SURE you want to see the mess in here?");
+
